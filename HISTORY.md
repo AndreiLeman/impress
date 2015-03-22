@@ -1,3 +1,38 @@
+0.1.244 / 2015-03-22
+==================
+
+  * Added universal API logging tool: api.impress.logApiMethod, issue #231
+  * Improver Impress feature list and short docs in README.md
+
+0.1.243 / 2015-03-21
+==================
+
+  * Fixed client.template, close #265
+  * Fixed directory index, close #262
+
+0.1.242 / 2015-03-20
+==================
+
+  * Cache values changed to constants, close #251
+
+0.1.241 / 2015-03-18
+==================
+
+  * Fixed bug in systemTemplates caching, close #259
+  * Changed api.impress.addTrailingSlash to api.impress.dirname
+
+0.1.240 / 2015-03-17
+==================
+
+  * Fixed broken introspection, close #257
+
+0.1.239 / 2015-03-15
+==================
+
+  * Remove application.*Dir properties, close #249
+  * Fixed files downloading, close #255
+  * Fixed paths in examples
+
 0.1.238 / 2015-03-14
 ==================
 
